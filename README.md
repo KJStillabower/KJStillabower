@@ -2,7 +2,7 @@
 
 Infrastructure and security engineer building reliable, scalable SaaS platforms.
 
-Most production work delivered in enterprise and regulated environments where systems and code are not publicly shareable. This profile contains representative projects and patterns that reflect how I design, build, and operate platforms.
+Infrastructure and security engineer building reliable, scalable SaaS platforms in multi-region, regulated environments where uptime, data integrity, and auditability are critical. I focus on making systems deterministic, observable, and recoverable through disciplined use of Terraform, CI/CD, and platform standards that eliminate drift and enable predictable operation at scale.
 
 ---
 
