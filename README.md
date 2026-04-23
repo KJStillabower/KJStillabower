@@ -20,7 +20,7 @@ Most production work delivered in enterprise and regulated environments where sy
 
 > Representative personal work. Most production systems are built in private enterprise environments.
 
-**weather-alert-service**  
+**[weather-alert-service](https://github.com/KJStillabower/weather-alert-service)**  
 Event-driven weather alert system integrating external APIs with structured caching, failure handling, and user-facing notification workflows. Demonstrates practical API integration, data lifecycle management, and reliability patterns including TTL-based caching, graceful degradation, and client-side resilience.
 
 ---
