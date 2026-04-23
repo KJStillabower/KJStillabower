@@ -1,4 +1,4 @@
-# Kenneth J. Stillabower
+# KJ Stillabower
 
 Infrastructure and security engineer building reliable, scalable SaaS platforms.
 
