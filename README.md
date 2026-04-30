@@ -1,3 +1,4 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Stillabower-blue?logo=linkedin)](https://www.linkedin.com/in/kjstillabower)
 # KJ Stillabower
 
 Infrastructure and security engineer building reliable, scalable SaaS platforms.
