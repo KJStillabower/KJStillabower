@@ -1,11 +1,9 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenneth%20Stillabower-blue?logo=linkedin)](https://www.linkedin.com/in/kjstillabower)
 # KJ Stillabower
 
 Infrastructure and security engineer building reliable, scalable SaaS platforms.
 
 Infrastructure and security engineer building reliable, scalable SaaS platforms in multi-region, regulated environments where uptime, data integrity, and auditability are critical. I focus on making systems deterministic, observable, and recoverable through disciplined use of Terraform, CI/CD, and platform standards that eliminate drift and enable predictable operation at scale.
-
----
-[Kenneth Stillabower](https://www.linkedin.com/in/kjstillabower?trk=profile-badge)
 
 ---
 
